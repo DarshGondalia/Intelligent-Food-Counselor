@@ -1,0 +1,33 @@
+train: /Users/darshgondalia/Desktop/YUKA_UPGRADE/dataset/images/train
+val: /Users/darshgondalia/Desktop/YUKA_UPGRADE/dataset/images/val
+
+nc: 27
+
+names: 
+  -  logo
+  -  variantDescription
+  -  productName
+  -  barcode
+  -  brandName
+  -  product
+  -  packagingRecyclingProcessType
+  -  netContent
+  -  drainedWeight
+  -  detailedProductName
+  -  ingredientStatement
+  -  address
+  -  nutritionTable
+  -  bestBeforeDate
+  -  hasBatchLotNumber
+  -  packagingMarkedLabelAccreditation
+  -  allergenStatement
+  -  countryOfOrigin
+  -  instructions
+  -  energyPerNutrientBasis
+  -  hasReturnablePackageDeposit
+  -  identityMark
+  -  organicClaim
+  -  qrCode
+  -  manufacturer
+  -  nutriScore
+  -  isFrozen
